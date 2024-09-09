@@ -6,3 +6,6 @@ Travel Tracker is a simple app built with PostgreSQL, Node, and EJS. It allows u
 
 ![File 2](https://drive.google.com/uc?export=view&id=1iG2ubo7ELy2PdtxbrtxvbL-fZAj73Opi)
 
+![File 3](https://drive.google.com/uc?export=view&id=1OaCDnBL2i7hgMTO6uVXMOU9dqKlEXFEw)
+
+
